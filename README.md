@@ -23,6 +23,10 @@ To set up this project locally, follow these steps:
    ```bash
    pip install -r requirements.txt
 
+4. **Pytorch Installation**
+
+   Additionally, PyTorch should be downloaded from the official PyTorch website (pytorch.org) based on your system requirements to ensure compatibility and proper functioning.
+
 ## Project Overview
 
 ### Usage
